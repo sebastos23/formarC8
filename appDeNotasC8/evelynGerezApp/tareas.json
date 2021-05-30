@@ -1,0 +1,25 @@
+[{
+        "titulo": "Javascript",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": " Variables",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Json",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Node",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "callbacks",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Hola Mundo",
+        "estado": "terminado"
+    }
+]

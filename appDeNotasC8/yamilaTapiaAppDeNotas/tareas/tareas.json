@@ -1,0 +1,22 @@
+[
+{
+    "titulo" : "Estudiar",
+    "estado" : "En progreso"
+},
+{
+    "titulo" : "Llorar",
+    "estado" : "En progreso"
+},
+{
+    "titulo" : "Cocinar",
+    "estado" : "Terminada"
+},
+{
+    "titulo" : "Hacer el tp",
+    "estado" : "En progreso"
+},
+{
+    "titulo" : "Trabajar",
+    "estado" : "Terminada"
+}
+]

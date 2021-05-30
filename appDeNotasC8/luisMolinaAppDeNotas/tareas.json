@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "casa de papel",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "walking dead",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "elite",
+        "estado": "pendiente"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "tareas":"Ir al supermercado",
+        "estado":"pendiente"
+    },
+    {
+        "tareas":"Pasear al perro",
+        "estado":"terminada"
+    },
+    {
+        "tareas":"Hacer la tarea",
+        "estado":"en progreso"
+    },
+    {
+        "tareas":"Ir al dentista",
+        "estado":"terminada"
+    },
+    {
+        "tareas":"Ordenar el cuarto",
+        "estado":"en progreso"
+    },
+    {
+        "tareas":"Salir a correr",
+        "estado":"pendiente"
+    }
+]

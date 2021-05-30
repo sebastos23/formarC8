@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Primer trabajo",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Ejercicios de PLAYGROUND",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": "Segundo trabajo",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Clase 5 de Javascript",
+        "estado": "terminada"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "titulo":"Hacer cena",
+        "estado":"Pendiente"
+    },
+    {
+        "titulo":"Hacer almuerzo",
+        "estado":"En progreso"
+    },
+    {
+        "titulo":"Hacer desayuno",
+        "estado":"Terminado"
+    }
+]

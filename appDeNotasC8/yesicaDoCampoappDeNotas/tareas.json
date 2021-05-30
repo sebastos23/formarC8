@@ -1,0 +1,4 @@
+[{"titulo": "arreglar la gotera", "estado": "pendiente"},
+{"titulo": "limpiar la casa", "estado": "en progreso"},
+{"titulo": "sacar la basura", "estado": "terminada"},
+{"titulo": "practicar Javascript", "estado": "en progreso"}]

@@ -1,0 +1,17 @@
+[
+    {
+        "titulo" : "barrer",
+        "estado" : "terminada"
+
+    },
+    {
+        "titulo" : "comer",
+        "estado" : "en progreso"
+
+    },
+    {
+        "titulo" : "ver que meterle al bot",
+        "estado" : "pendiente"
+
+    }
+]

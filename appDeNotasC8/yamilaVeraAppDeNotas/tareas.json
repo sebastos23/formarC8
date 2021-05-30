@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Programar una app de tareas",
+
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "crear un archivo json que contenga un array de objetos literales",
+
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Cada objeto literal deberá tener las propiedades: titulo y estado",
+
+        "estado":"terminada"
+    },
+    {
+        "titulo": "Generar un archivo app.js que 'consuma' el archivo de tareas.json",
+
+        "estado":"terminada"
+    },
+    {
+        "titulo": "Mostrar el listado de tareas existente por terminal",
+
+        "estado":"pendiente"
+    },
+    {
+        "titulo": "Guardar el contenido del archivo tareas.json en una variable y convertir la misma en un dato tipo array",
+
+        "estado":"terminada"
+    },
+    {
+        "titulo": "Permitir que al momento de ejecutar el archivo app.js desde la terminal con Node.js se pueda pasar un argumento despues del nombre del archivo",
+        
+        "estado":"pendiente"
+    },
+    {
+        "titulo": "Probar que todo funcione correctamente",
+
+        "estado":"en progreso"
+    },
+    {
+        "titulo": "Modularizar la aplicacion, llevando toda la funcionalidad de lectura de tareas a un archivo llamado funcionesDeTareas.js el cual debe ser consumido desde el archivo app.js",
+
+        "estado":"pendiente"
+    },
+    {
+        "titulo": "Probar que todo siga funcionando correctamente y sin problemas.",
+
+        "estado":"pendiente"
+    }
+]

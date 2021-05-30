@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Licenciatura",
+        "estado": "En progeso"
+    },
+    {
+        "titulo": "Ingeniería",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Bachiller",
+        "estado": "Pendiente"
+    }
+]
